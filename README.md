@@ -22,6 +22,3 @@ Os exercícios podem ser resolvidos em diversas linguagens, mas inicialmente est
 - ✅ Portugol (VisualG )
 
 ---
-
-> **Nota**: Este repositório não tem vínculo oficial com a FACCAT. É um projeto de estudo pessoal baseado no conteúdo da apostila pública.
-
