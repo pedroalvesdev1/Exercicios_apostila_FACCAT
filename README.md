@@ -1,7 +1,7 @@
 # Exercícios de Lógica de Programação – FACCAT
 
 Este repositório foi criado com o objetivo de armazenar e organizar os **exercícios de lógica de programação** propostos na **apostila da FACCAT (Faculdades Integradas de Taquara)**. 
-Essa apostila foi aplicada pelo meu professor Jailson Costa dos Santos que ministra sua aula pelo instituto PROA.
+Essa apostila foi aplicada pelo meu professor **Jailson Costa dos Santos** que ministra sua aula pelo Instituto PROA.
 
 ## 📘 Sobre
 
