@@ -1,11 +1,10 @@
 Algoritmo "ex23CorrecaoAlgoritmo"
 // Disciplina  : Lógica de Programação
 // Professor   : Jailson Costa dos Santos
-// Descrição   : Exercicio pra correção de algoritmo
+// Descrição   : Exercicio pra correção de algoritmo da apostila 
+//               FACCAT, que calcula o peso de ideal para o individuo.
 // Autor(a)    : Pedro Alves
 // Data atual  : 12/09/2025
-//Para o enunciado a seguir foi elaborado um algoritmo em Português Estruturado que contém
-//erros, identifique os erros no algoritmo apresentado abaixo:
 Var
    // Seção de Declarações das variáveis
          nome, sexo:caractere

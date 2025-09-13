@@ -1,13 +1,11 @@
-Algoritmo "calculo_media"
+Algoritmo "ex17CalculoMediaAluno"
 // Disciplina  : [Lógica de Programação]
 // Professor   : Jailson Costa do Santos
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Pedro Alves da Silva
+// Descrição   : Calcula a média aritimetica de aluno e veridfica se a 
+//               média, for maior que 6 ele é aprovado senão ele esta reprovado.
+// Autor(a)    : Pedro Alves 
 // Data atual  : 04/09/2025
-//Ler as notas da 1a. e 2a. avaliações de um aluno. Calcular a média
-//aritmética simples e escreve uma mensagem que diga se o aluno foi ou não
-//aprovado (considerar que nota igual ou maior que 6 o aluno é aprovado).
-//Escrever também a média calculada.
+
 Var
    // Seção de Declarações das variáveis
         nota1, nota2, media : real

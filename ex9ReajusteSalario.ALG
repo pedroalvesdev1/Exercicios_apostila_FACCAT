@@ -1,11 +1,10 @@
-Algoritmo "Reajuste_de_salario"
-// Disciplina   : Lógica de Programação
-// Professor   :  Jailson Costa dos Snatos 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+Algoritmo "ex9ReajusteSalario"
+// Disciplina  : Lógica de Programação
+// Professor   : Jailson Costa dos Santos
+// Descrição   : Ajusta o salário do funcionario de acordo com o valor do reajuste 
 // Autor(a)    : Pedro Alves
 // Data atual  : 03/09/2025
-//Escreva um algoritmo para ler o salário mensal atual de um funcionário
-//e o percentual de reajuste. Calcular e escrever o valor do novo salário.
+
 Var
 // Seção de Declarações das variáveis 
 valorSalario, percentualAjuste, calSalarioReajustado, SalarioReajustado:real

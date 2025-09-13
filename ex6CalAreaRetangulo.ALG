@@ -1,6 +1,6 @@
-Algoritmo "semnome"
+Algoritmo "ex6CalAreaRetangulo"
 // Disciplina  : Lógica de Programação
-// Professor   : Jailson
+// Professor   : Jailson Costa dos Santos
 // Descrição   : Esse código cálculo a área do retângulo.
 // Autor(a)    : Pedro Alves
 // Data atual  : 29/08/2025

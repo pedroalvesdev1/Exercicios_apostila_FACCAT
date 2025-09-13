@@ -1,6 +1,6 @@
-Algoritmo "semnome"
+Algoritmo "ex7IdadeEmDias"
 // Disciplina  : Lógica de Programação
-// Professor   : Jailson
+// Professor   : Jailson Costa dos Santos
 // Descrição   : Esse código coloca a idade das pesoas em dias.
 // Autor(a)    : Pedro Alves
 // Data atual  : 29/08/2025
