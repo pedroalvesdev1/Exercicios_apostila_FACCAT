@@ -1,8 +1,8 @@
 Algoritmo "ex13CalculoMediaPonderada"
 // Disciplina  : Lógica de Programação
-// Professor   : Jailson Costa dos Snatos
-// Descrição   : Visa calcular a média ponderada da nota dos alunos.
-// Autor(a)    : Nome do(a) aluno(a)
+// Professor   : Jailson Costa dos Santos
+// Descrição   : Esse programa visa calcular a média ponderada da nota dos alunos.
+// Autor(a)    : Pedro Alves
 // Data atual  : 09/09/2025
 Var
    // Seção de Declarações das variáveis

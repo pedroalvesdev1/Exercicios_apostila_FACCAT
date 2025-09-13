@@ -1,9 +1,10 @@
-Algoritmo "Numero_positivo_negativo"
+Algoritmo "ex15NumeroPositivoNgativo"
 // Disciplina  : [Lógica de Programação]
-// Professor   : Jailson Costa dos SANTO
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Pedro Alves da Silva
+// Professor   : Jailson Costa dos Santos
+// Descrição   : Verifica se o número é positivo ou negativo.
+// Autor(a)    : Pedro Alves
 // Data atual  : 04/09/2025
+
 Var
 // Seção de Declarações das variáveis 
 numero:inteiro

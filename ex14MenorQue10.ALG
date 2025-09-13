@@ -1,8 +1,8 @@
-Algoritmo "Menor_que_10"
+Algoritmo "ex14MenorQue10"
 // Disciplina  : [Lógica de Programação]
-// Professor   : Jailson Costa dos SANTO
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Pedro Alves da Silva
+// Professor   : Jailson Costa dos Santos
+// Descrição   : esse progma verifica se o número digitado é maior, menor ou igual a 10
+// Autor(a)    : Pedro Alves
 // Data atual  : 04/09/2025
 Var
    // Seção de Declarações das variáveis

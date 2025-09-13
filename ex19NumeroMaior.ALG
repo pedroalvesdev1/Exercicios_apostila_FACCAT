@@ -1,5 +1,5 @@
 Algoritmo "ex19NumeroMaior"
-// Disciplina  : [Linguagem e Lógica de Programação]
+// Disciplina  : [Lógica de Programação]
 // Professor   : Jailson Costa dos Santos
 // Descrição   : Aqui você descreve o que o programa faz! (função)
 // Autor(a)    : Pedro Alves da Silva

@@ -1,8 +1,8 @@
 Algoritmo "ex16VendaMacas"
 // Disciplina  : [Lógica de Programação]
 // Professor   : Jailson Costa dos Santos
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Pedro Alves da Silva
+// Descrição   : Esse programa aplica o desconto caso o número de maças for maior que 12.
+// Autor(a)    : Pedro Alves 
 // Data atual  : 04/09/2025
 Var
    // Seção de Declarações das variáveis

@@ -1,7 +1,7 @@
-Algoritmo "semnome"
+Algoritmo "ex5numeroAntecessor"
 // Disciplina  : Lógica de Programação
-// Professor   : Jailson
-// Descrição   : Esse código recebe um número e mostra seu antecesssor
+// Professor   : Jailson Costa dos Santos
+// Descrição   : Esse código recebe um número e mostra seu antecessor.
 // Autor(a)    : Pedro Alves
 // Data atual  : 29/08/2025
 Var

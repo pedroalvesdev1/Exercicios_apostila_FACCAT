@@ -1,13 +1,10 @@
-Algoritmo "CalculoPartidaXadrez"
+Algoritmo "ex21CalculoPartidaXadrez"
 // Disciplina  : [Lógica de Programação]
 // Professor   : Jailson Costa dos Santos
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Pedro Alves da Silva
+// Descrição   : Calcula a duração da partida de xadrez
+// Autor(a)    : Pedro Alves
 // Data atual  : 04/09/2025
-//Ler a hora de início e a hora de fim de um jogo de Xadrez (considere
-//apenas horas inteiras, sem os minutos) e calcule a duração do jogo em
-//horas, sabendo-se que o tempo máximo de duração do jogo é de 24 horas e
-//que o jogo pode iniciar em um dia e terminar no dia seguinte.
+
 Var
 // Seção de Declarações das variáveis 
 
@@ -24,7 +21,6 @@ Inicio
    duracao<- 24
    duracao<- duracao - (horaInicio - horaTermino)
     
-
    se (duracao > 24) entao
       Escreva("O tempo máximo foi ultrapassado uma partida não deve durar mais de 24h")
    senao

@@ -1,4 +1,4 @@
-Algoritmo "numeroEleitores"
+Algoritmo "ex8NumeroEleitores"
 // Disciplina  : Lógica de Programação
 // Professor   : Jailson Costa dos Santos
 // Descrição   : Esse código calcula a porcentagem dos votos de um municipio.
