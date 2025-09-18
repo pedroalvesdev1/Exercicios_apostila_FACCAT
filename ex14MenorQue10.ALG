@@ -1,7 +1,7 @@
 Algoritmo "ex14MenorQue10"
 // Disciplina  : [Lógica de Programação]
 // Professor   : Jailson Costa dos Santos
-// Descrição   : esse progma verifica se o número digitado é maior, menor ou igual a 10
+// Descrição   : Esse progma verifica se o número digitado é maior, menor ou igual a 10
 // Autor(a)    : Pedro Alves
 // Data atual  : 04/09/2025
 Var
@@ -23,6 +23,5 @@ Inicio
          escreva("Número maior que 10")
       fimse
    fimse
-
 
 Fimalgoritmo
