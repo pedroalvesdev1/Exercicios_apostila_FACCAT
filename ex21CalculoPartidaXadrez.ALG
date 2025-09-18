@@ -1,29 +1,30 @@
 Algoritmo "ex21CalculoPartidaXadrez"
-// Disciplina  : [LÛgica de ProgramaÁ„o]
+// Disciplina  : [L√≥gica de Programa√ß√£o]
 // Professor   : Jailson Costa dos Santos
-// DescriÁ„o   : Calcula a duraÁ„o da partida de xadrez
+// Descri√ß√£o   : Calcula a dura√ß√£o da partida de xadrez
 // Autor(a)    : Pedro Alves
 // Data atual  : 04/09/2025
 
 Var
-// SeÁ„o de DeclaraÁıes das vari·veis 
+// Se√ß√£o de Declara√ß√µes das vari√°veis 
 
 horaInicio, horaTermino, duracao: inteiro
 
 Inicio
-// SeÁ„o de Comandos, procedimento, funÁıes, operadores, etc... 
+// Se√ß√£o de Comandos, procedimento, fun√ß√µes, operadores, etc... 
 
-   Escreva("Digite a hora do inicio da partida(apenas digite a hora inteira):")
+  Escreva("Digite a hora do inicio da partida(apenas digite a hora inteira):")
    Leia(horaInicio)
    Escreva("Digite a hora do fim da partida(apenas digite a hora inteira):")
    Leia(horaTermino)
-   
-   duracao<- 24
-   duracao<- duracao - (horaInicio - horaTermino)
-    
+
+   duracao<- (horaTermino - horaInicio)
+   duracao<- 24 - duracao
+
    se (duracao > 24) entao
-      Escreva("O tempo m·ximo foi ultrapassado uma partida n„o deve durar mais de 24h")
+      Escreva("O tempo m√°ximo foi ultrapassado uma partida n√£o deve durar mais de 24h")
    senao
-        Escreva("A duraÁ„o da partida foi de",duracao,"h")
+      Escreva("A dura√ß√£o da partida foi de",duracao,"h")
    fimse
+
 Fimalgoritmo
