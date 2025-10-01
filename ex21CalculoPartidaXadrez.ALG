@@ -8,12 +8,14 @@ Algoritmo "ex21CalculoPartidaXadrez"
 Var
 // Seção de Declarações das variáveis 
 
-horaInicio, horaTermino, duracao: inteiro
+   horaInicio, horaTermino, duracao,cal: inteiro
 
 Inicio
+
 // Seção de Comandos, procedimento, funções, operadores, etc... 
 
-  Escreva("Digite a hora do inicio da partida(apenas digite a hora inteira):")
+
+   Escreva("Digite a hora do inicio da partida(apenas digite a hora inteira):")
    Leia(horaInicio)
    Escreva("Digite a hora do fim da partida(apenas digite a hora inteira):")
    Leia(horaTermino)
