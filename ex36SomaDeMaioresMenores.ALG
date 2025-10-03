@@ -31,14 +31,15 @@ Inicio
    senao
       homemMaisVelho<- idadeHomem2
       homemMaisNovo<- idadeHomem1
-      se (idadeMulher1 > idadeMulher2) entao
+   fimse
+
+   se (idadeMulher1 > idadeMulher2) entao
          mulherMaisVelha<- idadeMulher1
          mulherMaisNova<- idadeMulher2
       senao
          mulherMaisVelha<- idadeMulher2
          mulherMaisNova<- idadeMulher1
       fimse
-   fimse
 
    somaHomemVelhoMulherNova<-  homemMaisVelho + mulherMaisNova
    somaHomemNovoMulherVelha<-  homemMaisNovo + mulherMaisVelha
