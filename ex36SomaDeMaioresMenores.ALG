@@ -44,5 +44,5 @@ Inicio
    somaHomemNovoMulherVelha<-  homemMaisNovo + mulherMaisVelha
 
    Escreval("A soma das idades do homem mais velho com a mulher mais nova foi de", somaHomemVelhoMulherNova)
-   Escreval("A soma das idades do homem mais novo com a mulher mais velha foi de", soamHomemNovoMulherVelha)
+   Escreval("A soma das idades do homem mais novo com a mulher mais velha foi de", somaHomemVelhoMulherNova)
 Fimalgoritmo
