@@ -1,28 +1,28 @@
 Algoritmo "ex36SomaDemaioresMenores"
-// Disciplina  : Lógica de Programação
+// Disciplina  : LÃ³gica de ProgramaÃ§Ã£o
 // Professor   : Jailson Costa dos Santos
-// Descrição   : Calcule e escreva a soma
+// DescriÃ§Ã£o   : Calcule e escreva a soma
 //		 das idades do homem mais velho com a mulher mais nova, 
 //               e o produto das idades do homem mais
 //		 novo com a mulher mais velha.
 // Autor(a)    : Pedro Alves
 // Data atual  : 14/09/2025
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
 
    idadeHomem1,idadeHomem2,idadeMulher1,idadeMulher2:inteiro
    homemMaisVelho,mulherMaisVelha, homemMaisNovo, mulherMaisNova:inteiro
-   soamHomemNovoMulherVelha,somaHomemVelhoMulherNova:inteiro
+   somaHomemNovoMulherVelha,somaHomemVelhoMulherNova:inteiro
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   // SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
 
-   Escreval("Digite a idade do 1° homem: ")
+   Escreval("Digite a idade do 1Â° homem: ")
    Leia(idadeHomem1)
-   Escreval("Digite a idade do 2° homem: ")
+   Escreval("Digite a idade do 2Â° homem: ")
    Leia(idadeHomem2)
-   Escreval("Digite a idade da 1° mulher: ")
+   Escreval("Digite a idade da 1Â° mulher: ")
    Leia(idadeMulher1)
-   Escreval("Digite a idade da 2° mulher: ")
+   Escreval("Digite a idade da 2Â° mulher: ")
    Leia(idadeMulher2)
 
    se (idadeHomem1 > idadeHomem2) entao
@@ -41,7 +41,7 @@ Inicio
    fimse
 
    somaHomemVelhoMulherNova<-  homemMaisVelho + mulherMaisNova
-   soamHomemNovoMulherVelha<-  homemMaisNovo + mulherMaisVelha
+   somaHomemNovoMulherVelha<-  homemMaisNovo + mulherMaisVelha
 
    Escreval("A soma das idades do homem mais velho com a mulher mais nova foi de", somaHomemVelhoMulherNova)
    Escreval("A soma das idades do homem mais novo com a mulher mais velha foi de", soamHomemNovoMulherVelha)
